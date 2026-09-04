@@ -1,56 +1,46 @@
 {
   "id": [
     {
-      "title": "Hangout Bareng Teman",
+      "title": "Main Board Game",
       "description": "Ubah nongkrong biasa jadi momen yang penuh tawa melalui board game yang membuat semua teman ikut terlibat dan menikmati waktu bersama.",
-      "image": "/images/activities/activity-1.svg"
+      "image": "/images/activities/activity-1.jpeg"
     },
     {
-      "title": "Family Time yang Benar - Benar Seru",
-      "description": "Dengan board game yang cocok untuk segala usia, anak, orang tua, hingga kakek dan nenek bisa bermain bersama dan menciptakan momen yang berkesan.",
-      "image": "/images/activities/activity-2.svg"
+      "title": "Kumpul Keluarga",
+      "description": "Dengan board game yang cocok untuk segala usia, anak dan orang tua bisa bermain dan menciptakan momen yang bersama",
+      "image": "/images/activities/activity-2.png"
     },
     {
-      "title": "Dine In yang Lebih Berkesan",
-      "description": "Nikmati beragam makanan dan minuman favorit yang siap menemani keseruan bermain board game, membuat setiap kunjungan terasa lebih lengkap dan berkesan.",
-      "image": "/images/activities/activity-3.svg"
+      "title": "Dine-In",
+      "description": "Nikmati beragam makanan dan minuman favorit yang siap menemani keseruan bermain board game",
+      "image": "/images/activities/activity-3.png"
     },
     {
       "title": "Productive Day",
-      "description": "Belajar, bekerja, atau meeting lebih nyaman di ruang ber-AC yang cozy. Saat butuh rehat, segarkan pikiran dengan board game sebelum kembali produktif.",
-      "image": "/images/activities/activity-4.svg"
-    },
-    {
-      "title": "Rayakan Momen Spesial",
-      "description": "Ulang tahun, reuni, gathering, atau acara komunitas menjadi lebih hidup dengan board game yang menghadirkan tawa, interaksi, dan cerita yang akan dikenang.",
-      "image": "/images/activities/activity-5.svg"
+      "description": "Belajar, bekerja, atau meeting lebih nyaman di ruang ber-AC yang cozy.",
+      "image": "/images/activities/activity-4.png"
     }
   ],
   "en": [
     {
-      "title": "Hang Out with Friends",
+      "title": "Play Board Game",
       "description": "Turn an ordinary hangout into unforgettable moments with board games that get everyone laughing, talking, and having fun together.",
-      "image": "/images/activities/activity-1.svg"
+      "image": "/images/activities/activity-1.jpeg"
     },
     {
-      "title": "Fun for the Whole Family",
-      "description": "With board games for all ages, kids, parents, and even grandparents can gather around the same table and enjoy quality time together.",
-      "image": "/images/activities/activity-2.svg"
+      "title": "Family Time",
+      "description": "With board games for all ages, kids and parents can gather around on the same table and enjoy quality time together.",
+      "image": "/images/activities/activity-2.png"
     },
     {
-      "title": "A More Memorable Dine-In",
-      "description": "Enjoy delicious food and refreshing drinks while playing board games, making every visit more satisfying, fun, and memorable.",
-      "image": "/images/activities/activity-3.svg"
+      "title": "Dine-In",
+      "description": "Enjoy delicious food and refreshing drinks while playing board games",
+      "image": "/images/activities/activity-3.png"
     },
     {
       "title": "Productive Day",
-      "description": "Work, study, or hold meetings in a cozy, air-conditioned space. When it's time for a break, recharge with a board game before getting back to what matters.",
-      "image": "/images/activities/activity-4.svg"
-    },
-    {
-      "title": "Celebrate Special Moments",
-      "description": "Whether it's a birthday, reunion, gathering, or community event, make every celebration more meaningful with board games that bring people together.",
-      "image": "/images/activities/activity-5.svg"
+      "description": "Work, study, or hold meetings in a cozy, air-conditioned space",
+      "image": "/images/activities/activity-4.png"
     }
   ]
 }
